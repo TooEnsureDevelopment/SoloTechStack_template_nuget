@@ -1,0 +1,1 @@
+# SoloTechStack_template_nuget
